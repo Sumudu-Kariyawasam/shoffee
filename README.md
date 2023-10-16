@@ -6,6 +6,7 @@ Here you can view a demo of this project. Please use default email and password 
 Details to login as a buyer & Seller
 
 Email Address : example@infinityscript.web.lk
+
 Password : 123456
 
 link: https://shoffee.infinityscript.web.lk/
@@ -16,7 +17,9 @@ Also you can test Admin panel of this website. Click below button to visit the a
 Details to login as Admin
 
 Email Address : admin@infinityscript.web.lk
+
 Password: 101010
+
 Verification Code : 000000
 
 link: https://shoffee.infinityscript.web.lk/adminSignin.php
