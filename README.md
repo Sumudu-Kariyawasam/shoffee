@@ -5,8 +5,7 @@ Here you can view a demo of this project. Please use default email and password 
 
 Details to login as a buyer & Seller
 
-Email Address : example@infinityscript.web.lk
-
+Email Address : example@infinityscript.web.lk <br/>
 Password : 123456
 
 link: https://shoffee.infinityscript.web.lk/
@@ -14,10 +13,8 @@ link: https://shoffee.infinityscript.web.lk/
 Visit Demo Site
 Also you can test Admin panel of this website. Click below button to visit the admin panel. Please use provided default Email Password and Verification Code to login. Kindly note that you can only visit that and site you can’t make change on it.
 
-Details to login as Admin
-
-Email Address : admin@infinityscript.web.lk
-
+Details to login as Admin<br/>
+Email Address : admin@infinityscript.web.lk<br/>
 Password: 101010
 
 Verification Code : 000000
